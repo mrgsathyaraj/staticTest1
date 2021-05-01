@@ -33,7 +33,7 @@ public class StaticTestClass {
     {
 
         Testme();        System.out.println("Static method can only call static method");
-        System.out.println("The non static variable value cannot be printed in static method : ");
+        System.out.println("The non static variable value cannot be printed in static method:: ");
 
     }
 
